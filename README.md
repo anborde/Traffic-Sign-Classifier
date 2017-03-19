@@ -9,10 +9,10 @@ The model for training the dataset involves some adaptations from the research p
 1. Traffic_Sign_Classifier.ipynb
   - The file consists of all the required cells to load, preprocess, train, validate and test the data.
   
-3. net.jpg
+2. net.jpg
   - It is a reference image for the architecture of the classifier model deployed in the project.
 
-4. /extra_images
+3. /extra_images
  - Consists of some random images downloaded from internet to test the classifier
  
 ### Requirments
